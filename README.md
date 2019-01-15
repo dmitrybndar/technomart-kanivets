@@ -1,2 +1,2 @@
-# technomart-kanivets
-technomart_kanivets
+# Technomart layout
+
